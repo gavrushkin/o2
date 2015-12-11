@@ -20,6 +20,7 @@ HEADERS += \
     $$PWD/o1flickr.h \
     $$PWD/o1requestor.h \
     $$PWD/o1twitter.h \
+    $$PWD/o1upwork.h \
     $$PWD/o2.h \
     $$PWD/o2facebook.h \
     $$PWD/o2gft.h \
